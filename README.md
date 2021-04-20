@@ -4,6 +4,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+https://github.com/Borisbam/crm-cliente.git
+
+cd crm-cliente
+
+npm install
+
 First, run the development server:
 
 ```bash
