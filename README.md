@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-https://github.com/Borisbam/crm-cliente.git
+git clone https://github.com/Borisbam/crm-cliente.git
 
 cd crm-cliente
 
