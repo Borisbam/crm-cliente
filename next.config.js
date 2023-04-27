@@ -1,6 +1,6 @@
 module.exports = {
     env: {
-        backendURL: 'https://admincrmserver.herokuapp.com/',
-        frontendURL: 'localhost:3000'
+        backendURL: process.env.BACKEND_URL,
+        frontendURL: process.env.FRONTEND_URL
     }
 }
